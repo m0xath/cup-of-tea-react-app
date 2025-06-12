@@ -1,4 +1,5 @@
-Make Your Go-To Tea 🍵
+## Make Your Go-To Tea
+
 This is the source code for a simple interactive React app that lets users customize their ideal tea. Adjust tea bags, sugar cubes, and water level — and the mug updates in real time.
 
 App is hosted at:
