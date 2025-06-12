@@ -1,0 +1,26 @@
+.mug-container {
+  position: relative;
+  display: inline-block;
+  width: 450px;
+  height: 450px;
+}
+
+.mug-fluid {
+  position: absolute;
+  bottom: 20%;
+  left: 12%;
+  width: 55%;
+  background: linear-gradient(to bottom, #8B4513 0%, #A0522D 100%);
+  border-radius: 0 0 10% 10%;
+  transition: height 0.3s ease;
+  z-index: 1;
+}
+
+.mug-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+} 
